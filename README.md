@@ -15,3 +15,9 @@ Result page with summary of all items added, where calculate value for individua
 ![Results](imgDemo/results.png)
 AdminArea;
 ![Results](imgDemo/admin.png)
+
+
+### Future;
+add search, good when list gets long.
+signInPage.
+Create mobile-app
