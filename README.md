@@ -1,9 +1,9 @@
 # CaloriesProteinTracker-Project
 
 ### Intro
-- Developed in asp.net core MVC(vs2022)
-- for daily tracking of calories and protein through a custom list.
-- Add items to DBList with Values("Name","Calories", "Protein"), from list add item with button to daily results where all added items combines and calculates protein and calorie intake both separate and total value off all.
+- For daily tracking of calories and protein through a custom list.
+- Developed in asp.net 6 core MVC(vs2022)
+- Add items to DBList with Values("Name","Calories", "Protein"), from list add item with buttonClick to daily results where all added items combines and calculates protein and calorie intake both separate and total value off all.
 
 ### Lunch;
 run "CalProTein.sln" inside VisualStudio (optional update packages), there will be some items and categories added through seeData.cs.
