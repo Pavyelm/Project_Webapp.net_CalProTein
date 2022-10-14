@@ -10,4 +10,4 @@ visit "http://localhost:5016/Account/Create" and fill out the form, loggin for a
 
 ## Demo IMG
 
-![alt text](image.jpg)
+![MainPage](imgDemo/main.jpg)
