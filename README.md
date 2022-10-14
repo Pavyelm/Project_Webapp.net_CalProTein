@@ -18,6 +18,6 @@ AdminArea;
 
 
 ### Future;
-add search, good when list gets long.
-signInPage.
-Create mobile-app
+- add search, good when list gets long.
+- signInPage.
+- Create mobile-app
