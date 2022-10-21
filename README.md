@@ -13,13 +13,13 @@ visit "http://localhost:5016/Account/Create" and fill out the form, loggin for a
 ## Demo IMG
 Main page where you can browse categories and products
 ![MainPage](imgDemo/main.png)
-Result page with summary of all items added, where calculate value for individual items kalorie and protein, then on the bottom print out total value from all items(total calories and protien of all items).
+Result page with summary of all added items, where calculate value for individual items calorie and protein, then on the bottom print out total value from all items(total calories and protien of all items).
 ![Results](imgDemo/results.png)
 AdminArea;
 ![Results](imgDemo/admin.png)
 
 
-### Future;
+### Improvments;
 - add search, good when list gets long.
 - signInPage.
 - Create mobile-app
