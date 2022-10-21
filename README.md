@@ -8,7 +8,7 @@
 ### Lunch;
 run "CalProTein.sln" inside VisualStudio (optional update packages), there will be some items and categories added through seeData.cs.
 ### Create an acount;
-visit "http://localhost:5016/Account/Create" and fill out the form, loggin for access to the admin panel(where you add items).
+visit "http://localhost:5016/Account/Create" and fill out the form, loggin for access to the admin panel(where you add items to categorie list).
 
 ## Demo IMG
 Main page where you can browse categories and products
