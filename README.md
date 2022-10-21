@@ -22,4 +22,4 @@ AdminArea;
 ### Improvments;
 - add search, good when list gets long.
 - signInPage.
-- Create mobile-version
+- Create mobile-version/migration
